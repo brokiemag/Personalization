@@ -1,0 +1,35 @@
+Extensions as per 2021
+
+----------- Ease
+
+--Websearch
+--Remote -WSL
+--Remote -SSH
+--Remote -Containers--Remote -SSH: Editing 
+
+----------- Languages/tools
+--+> Python
+-->Pylance
+
+--+> Juypter
+-> Juypter Keymap
+-> Juypter Notebook render
+
+--+> Cmake
+
+--+> LiveShare
+-> Liveshare audio
+
+--+> Github
+-> Gistpad
+-> Github Pull request
+
+----------- Livealization
+
+--> Sweet Dracula
+--> Tokyo Night
+--> Night Owl
+--> Material theme
+--> Material theme icons
+..>> Current Set Sweet Dracula
+
