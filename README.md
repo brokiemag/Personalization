@@ -7,7 +7,7 @@ includes all my wallpapers and icon packs that is used to customize my windows p
 Use the package manager [git](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to clone my repo .
 
 ```bash
-git clone https://github.com/brokiemag/livealization-21.git
+git clone https://github.com/brokiemag/dotfiles.git
 ```
 
 ## Usage
